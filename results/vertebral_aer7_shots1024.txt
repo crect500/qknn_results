@@ -1,0 +1,65 @@
+VERTEBRAL_COLUMN RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.7741935483870968
+True Positives: 35
+False Positives: 7
+False Negatives: 7
+True Negatives: 13
+Fold 2: Accuracy: 0.8548387096774194
+True Positives: 38
+False Positives: 5
+False Negatives: 4
+True Negatives: 15
+Fold 3: Accuracy: 0.8387096774193549
+True Positives: 38
+False Positives: 6
+False Negatives: 4
+True Negatives: 14
+Fold 4: Accuracy: 0.7903225806451613
+True Positives: 34
+False Positives: 5
+False Negatives: 8
+True Negatives: 15
+Fold 5: Accuracy: 0.8548387096774194
+True Positives: 36
+False Positives: 3
+False Negatives: 6
+True Negatives: 17
+
+QUANTUM
+Fold 1: Accuracy: 0.3225806451612903
+Jaccard: 0.4861751152073731
+Average Jaccard: 0.5054750932631117
+True Positives: 0
+False Positives: 0
+False Negatives: 42
+True Negatives: 20
+Fold 2: Accuracy: 0.3225806451612903
+Jaccard: 0.6589861751152075
+Average Jaccard: 0.6732499451393461
+True Positives: 0
+False Positives: 0
+False Negatives: 42
+True Negatives: 20
+Fold 3: Accuracy: 0.3225806451612903
+Jaccard: 0.4907834101382488
+Average Jaccard: 0.5615097651964012
+True Positives: 0
+False Positives: 0
+False Negatives: 42
+True Negatives: 20
+Fold 4: Accuracy: 0.3225806451612903
+Jaccard: 0.4999999999999999
+Average Jaccard: 0.5732334869431643
+True Positives: 0
+False Positives: 0
+False Negatives: 42
+True Negatives: 20
+Fold 5: Accuracy: 0.3225806451612903
+Jaccard: 0.4654377880184329
+Average Jaccard: 0.5292791310072416
+True Positives: 0
+False Positives: 0
+False Negatives: 42
+True Negatives: 20
+

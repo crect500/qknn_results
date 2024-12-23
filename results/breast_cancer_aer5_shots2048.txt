@@ -1,0 +1,65 @@
+BREAST_CANCER RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.75
+True Positives: 9
+False Positives: 2
+False Negatives: 4
+True Negatives: 9
+Fold 2: Accuracy: 0.782608695652174
+True Positives: 10
+False Positives: 3
+False Negatives: 2
+True Negatives: 8
+Fold 3: Accuracy: 0.5652173913043478
+True Positives: 6
+False Positives: 3
+False Negatives: 7
+True Negatives: 7
+Fold 4: Accuracy: 0.7391304347826086
+True Positives: 10
+False Positives: 3
+False Negatives: 3
+True Negatives: 7
+Fold 5: Accuracy: 0.8260869565217391
+True Positives: 12
+False Positives: 3
+False Negatives: 1
+True Negatives: 7
+
+QUANTUM
+Fold 1: Accuracy: 0.4583333333333333
+Jaccard: 0.7166666666666671
+Average Jaccard: 0.6641666666666668
+True Positives: 11
+False Positives: 11
+False Negatives: 2
+True Negatives: 0
+Fold 2: Accuracy: 0.43478260869565216
+Jaccard: 0.591304347826087
+Average Jaccard: 0.5726086956521739
+True Positives: 9
+False Positives: 10
+False Negatives: 3
+True Negatives: 1
+Fold 3: Accuracy: 0.4782608695652174
+Jaccard: 0.591304347826087
+Average Jaccard: 0.5776811594202899
+True Positives: 11
+False Positives: 10
+False Negatives: 2
+True Negatives: 0
+Fold 4: Accuracy: 0.5652173913043478
+Jaccard: 0.6608695652173913
+Average Jaccard: 0.7031884057971014
+True Positives: 12
+False Positives: 9
+False Negatives: 1
+True Negatives: 1
+Fold 5: Accuracy: 0.391304347826087
+Jaccard: 0.6608695652173914
+Average Jaccard: 0.6075362318840579
+True Positives: 8
+False Positives: 9
+False Negatives: 5
+True Negatives: 1
+

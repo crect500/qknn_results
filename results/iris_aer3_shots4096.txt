@@ -1,0 +1,195 @@
+SETOSA-VERISCOLOR RESULTS
+CLASSICAL
+Fold 1: Accuracy: 1.0
+True Positives: 15
+False Positives: 0
+False Negatives: 0
+True Negatives: 5
+Fold 2: Accuracy: 1.0
+True Positives: 8
+False Positives: 0
+False Negatives: 0
+True Negatives: 12
+Fold 3: Accuracy: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 4: Accuracy: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 5: Accuracy: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+
+QUANTUM
+Fold 1: Accuracy: 1.0
+Jaccard: 0.9500000000000002
+Average Jaccard: 0.9083333333333333
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 2: Accuracy: 1.0
+Jaccard: 0.9833333333333332
+Average Jaccard: 0.9694444444444444
+True Positives: 7
+False Positives: 0
+False Negatives: 0
+True Negatives: 13
+Fold 3: Accuracy: 0.9
+Jaccard: 0.9166666666666666
+Average Jaccard: 0.9138888888888889
+True Positives: 9
+False Positives: 0
+False Negatives: 2
+True Negatives: 9
+Fold 4: Accuracy: 1.0
+Jaccard: 0.9833333333333334
+Average Jaccard: 0.9694444444444446
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+Fold 5: Accuracy: 1.0
+Jaccard: 0.95
+Average Jaccard: 0.9583333333333334
+True Positives: 11
+False Positives: 0
+False Negatives: 0
+True Negatives: 9
+
+SETOSA-VIRGINICA RESULTS
+CLASSICAL
+Fold 1: Accuracy: 1.0
+True Positives: 8
+False Positives: 0
+False Negatives: 0
+True Negatives: 12
+Fold 2: Accuracy: 1.0
+True Positives: 13
+False Positives: 0
+False Negatives: 0
+True Negatives: 7
+Fold 3: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 4: Accuracy: 1.0
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+Fold 5: Accuracy: 1.0
+True Positives: 7
+False Positives: 0
+False Negatives: 0
+True Negatives: 13
+
+QUANTUM
+Fold 1: Accuracy: 1.0
+Jaccard: 0.9666666666666668
+Average Jaccard: 0.9388888888888889
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+Fold 2: Accuracy: 1.0
+Jaccard: 0.9833333333333334
+Average Jaccard: 0.9694444444444446
+True Positives: 11
+False Positives: 0
+False Negatives: 0
+True Negatives: 9
+Fold 3: Accuracy: 1.0
+Jaccard: 0.95
+Average Jaccard: 0.9333333333333333
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 4: Accuracy: 1.0
+Jaccard: 0.95
+Average Jaccard: 0.9333333333333333
+True Positives: 8
+False Positives: 0
+False Negatives: 0
+True Negatives: 12
+Fold 5: Accuracy: 1.0
+Jaccard: 0.9333333333333333
+Average Jaccard: 0.9361111111111112
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+
+VERISCOLOR-VIRGINICA RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.95
+True Positives: 7
+False Positives: 1
+False Negatives: 0
+True Negatives: 12
+Fold 2: Accuracy: 0.9
+True Positives: 10
+False Positives: 2
+False Negatives: 0
+True Negatives: 8
+Fold 3: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 4: Accuracy: 0.85
+True Positives: 7
+False Positives: 0
+False Negatives: 3
+True Negatives: 10
+Fold 5: Accuracy: 0.95
+True Positives: 12
+False Positives: 0
+False Negatives: 1
+True Negatives: 7
+
+QUANTUM
+Fold 1: Accuracy: 0.85
+Jaccard: 0.7666666666666666
+Average Jaccard: 0.7472222222222221
+True Positives: 4
+False Positives: 0
+False Negatives: 3
+True Negatives: 13
+Fold 2: Accuracy: 0.75
+Jaccard: 0.7666666666666665
+Average Jaccard: 0.7388888888888888
+True Positives: 7
+False Positives: 1
+False Negatives: 4
+True Negatives: 8
+Fold 3: Accuracy: 0.5
+Jaccard: 0.6833333333333333
+Average Jaccard: 0.6527777777777778
+True Positives: 4
+False Positives: 3
+False Negatives: 7
+True Negatives: 6
+Fold 4: Accuracy: 0.7
+Jaccard: 0.6833333333333332
+Average Jaccard: 0.7277777777777777
+True Positives: 12
+False Positives: 6
+False Negatives: 0
+True Negatives: 2
+Fold 5: Accuracy: 0.45
+Jaccard: 0.7
+Average Jaccard: 0.75
+True Positives: 8
+False Positives: 10
+False Negatives: 1
+True Negatives: 1
+

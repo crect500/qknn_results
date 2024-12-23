@@ -1,0 +1,195 @@
+SETOSA-VERISCOLOR RESULTS
+CLASSICAL
+Fold 1: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 2: Accuracy: 0.95
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+Fold 3: Accuracy: 0.95
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+Fold 4: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 5: Accuracy: 0.95
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+
+QUANTUM
+Fold 1: Accuracy: 1.0
+Jaccard: 0.9928571428571429
+Average Jaccard: 0.9945748299319728
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 2: Accuracy: 0.95
+Jaccard: 1.0
+Average Jaccard: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+Fold 3: Accuracy: 0.95
+Jaccard: 1.0
+Average Jaccard: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+Fold 4: Accuracy: 1.0
+Jaccard: 0.9642857142857142
+Average Jaccard: 0.9650170068027212
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 5: Accuracy: 0.95
+Jaccard: 0.9785714285714286
+Average Jaccard: 0.9901530612244898
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+
+SETOSA-VIRGINICA RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.9
+True Positives: 8
+False Positives: 0
+False Negatives: 2
+True Negatives: 10
+Fold 2: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 3: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 4: Accuracy: 0.95
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+Fold 5: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+
+QUANTUM
+Fold 1: Accuracy: 0.9
+Jaccard: 1.0
+Average Jaccard: 1.0
+True Positives: 8
+False Positives: 0
+False Negatives: 2
+True Negatives: 10
+Fold 2: Accuracy: 1.0
+Jaccard: 1.0
+Average Jaccard: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 3: Accuracy: 1.0
+Jaccard: 1.0
+Average Jaccard: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 4: Accuracy: 0.95
+Jaccard: 0.9428571428571427
+Average Jaccard: 0.9623129251700681
+True Positives: 9
+False Positives: 0
+False Negatives: 1
+True Negatives: 10
+Fold 5: Accuracy: 1.0
+Jaccard: 1.0
+Average Jaccard: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+
+VERISCOLOR-VIRGINICA RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.85
+True Positives: 8
+False Positives: 1
+False Negatives: 2
+True Negatives: 9
+Fold 2: Accuracy: 0.6
+True Positives: 2
+False Positives: 0
+False Negatives: 8
+True Negatives: 10
+Fold 3: Accuracy: 0.65
+True Positives: 3
+False Positives: 0
+False Negatives: 7
+True Negatives: 10
+Fold 4: Accuracy: 0.8
+True Positives: 6
+False Positives: 0
+False Negatives: 4
+True Negatives: 10
+Fold 5: Accuracy: 0.9
+True Positives: 8
+False Positives: 0
+False Negatives: 2
+True Negatives: 10
+
+QUANTUM
+Fold 1: Accuracy: 0.85
+Jaccard: 0.9642857142857142
+Average Jaccard: 0.9546598639455782
+True Positives: 8
+False Positives: 1
+False Negatives: 2
+True Negatives: 9
+Fold 2: Accuracy: 0.6
+Jaccard: 0.9928571428571429
+Average Jaccard: 0.9945748299319728
+True Positives: 2
+False Positives: 0
+False Negatives: 8
+True Negatives: 10
+Fold 3: Accuracy: 0.65
+Jaccard: 0.9785714285714286
+Average Jaccard: 0.9881292517006802
+True Positives: 3
+False Positives: 0
+False Negatives: 7
+True Negatives: 10
+Fold 4: Accuracy: 0.8
+Jaccard: 0.9500000000000002
+Average Jaccard: 0.9653571428571429
+True Positives: 6
+False Positives: 0
+False Negatives: 4
+True Negatives: 10
+Fold 5: Accuracy: 0.9
+Jaccard: 0.9571428571428571
+Average Jaccard: 0.9629251700680274
+True Positives: 8
+False Positives: 0
+False Negatives: 2
+True Negatives: 10
+

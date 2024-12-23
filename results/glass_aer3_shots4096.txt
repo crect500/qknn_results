@@ -1,0 +1,65 @@
+GLASS RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.6333333333333333
+True Positives: 8
+False Positives: 5
+False Negatives: 6
+True Negatives: 11
+Fold 2: Accuracy: 0.6206896551724138
+True Positives: 13
+False Positives: 10
+False Negatives: 1
+True Negatives: 5
+Fold 3: Accuracy: 0.7241379310344828
+True Positives: 7
+False Positives: 1
+False Negatives: 7
+True Negatives: 14
+Fold 4: Accuracy: 0.5862068965517241
+True Positives: 7
+False Positives: 5
+False Negatives: 7
+True Negatives: 10
+Fold 5: Accuracy: 0.7241379310344828
+True Positives: 8
+False Positives: 2
+False Negatives: 6
+True Negatives: 13
+
+QUANTUM
+Fold 1: Accuracy: 0.4666666666666667
+Jaccard: 0.522222222222222
+Average Jaccard: 0.624074074074074
+True Positives: 0
+False Positives: 2
+False Negatives: 14
+True Negatives: 14
+Fold 2: Accuracy: 0.5172413793103449
+Jaccard: 0.5402298850574712
+Average Jaccard: 0.6398467432950191
+True Positives: 0
+False Positives: 0
+False Negatives: 14
+True Negatives: 15
+Fold 3: Accuracy: 0.5172413793103449
+Jaccard: 0.7011494252873561
+Average Jaccard: 0.7911877394636014
+True Positives: 0
+False Positives: 0
+False Negatives: 14
+True Negatives: 15
+Fold 4: Accuracy: 0.4827586206896552
+Jaccard: 0.5862068965517241
+Average Jaccard: 0.632183908045977
+True Positives: 0
+False Positives: 1
+False Negatives: 14
+True Negatives: 14
+Fold 5: Accuracy: 0.5172413793103449
+Jaccard: 0.5517241379310344
+Average Jaccard: 0.5977011494252874
+True Positives: 0
+False Positives: 0
+False Negatives: 14
+True Negatives: 15
+

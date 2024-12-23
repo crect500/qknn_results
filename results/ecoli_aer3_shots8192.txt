@@ -1,0 +1,65 @@
+ECOLI RESULTS
+CLASSICAL
+Fold 1: Accuracy: 1.0
+True Positives: 11
+False Positives: 0
+False Negatives: 0
+True Negatives: 33
+Fold 2: Accuracy: 0.9545454545454546
+True Positives: 15
+False Positives: 0
+False Negatives: 2
+True Negatives: 27
+Fold 3: Accuracy: 0.9545454545454546
+True Positives: 9
+False Positives: 0
+False Negatives: 2
+True Negatives: 33
+Fold 4: Accuracy: 0.9772727272727273
+True Positives: 15
+False Positives: 0
+False Negatives: 1
+True Negatives: 28
+Fold 5: Accuracy: 0.9545454545454546
+True Positives: 20
+False Positives: 0
+False Negatives: 2
+True Negatives: 22
+
+QUANTUM
+Fold 1: Accuracy: 0.5681818181818182
+Jaccard: 0.8863636363636362
+Average Jaccard: 0.8143939393939394
+True Positives: 0
+False Positives: 0
+False Negatives: 19
+True Negatives: 25
+Fold 2: Accuracy: 0.5909090909090909
+Jaccard: 0.9015151515151513
+Average Jaccard: 0.8308080808080808
+True Positives: 0
+False Positives: 0
+False Negatives: 18
+True Negatives: 26
+Fold 3: Accuracy: 0.6136363636363636
+Jaccard: 0.9318181818181817
+Average Jaccard: 0.8863636363636364
+True Positives: 0
+False Positives: 0
+False Negatives: 17
+True Negatives: 27
+Fold 4: Accuracy: 0.6818181818181818
+Jaccard: 0.924242424242424
+Average Jaccard: 0.8838383838383838
+True Positives: 0
+False Positives: 0
+False Negatives: 14
+True Negatives: 30
+Fold 5: Accuracy: 0.7954545454545454
+Jaccard: 0.8636363636363633
+Average Jaccard: 0.8446969696969696
+True Positives: 2
+False Positives: 2
+False Negatives: 7
+True Negatives: 33
+

@@ -1,0 +1,195 @@
+SETOSA-VERISCOLOR RESULTS
+CLASSICAL
+Fold 1: Accuracy: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 2: Accuracy: 1.0
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+Fold 3: Accuracy: 1.0
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+Fold 4: Accuracy: 1.0
+True Positives: 8
+False Positives: 0
+False Negatives: 0
+True Negatives: 12
+Fold 5: Accuracy: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+
+QUANTUM
+Fold 1: Accuracy: 0.85
+Jaccard: 0.95
+Average Jaccard: 0.9725
+True Positives: 6
+False Positives: 0
+False Negatives: 3
+True Negatives: 11
+Fold 2: Accuracy: 1.0
+Jaccard: 0.95
+Average Jaccard: 0.9608333333333333
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 3: Accuracy: 1.0
+Jaccard: 0.9700000000000001
+Average Jaccard: 0.9673333333333335
+True Positives: 11
+False Positives: 0
+False Negatives: 0
+True Negatives: 9
+Fold 4: Accuracy: 0.95
+Jaccard: 0.9700000000000001
+Average Jaccard: 0.9673333333333334
+True Positives: 7
+False Positives: 0
+False Negatives: 1
+True Negatives: 12
+Fold 5: Accuracy: 0.95
+Jaccard: 0.9300000000000003
+Average Jaccard: 0.9326666666666668
+True Positives: 12
+False Positives: 0
+False Negatives: 1
+True Negatives: 7
+
+SETOSA-VIRGINICA RESULTS
+CLASSICAL
+Fold 1: Accuracy: 1.0
+True Positives: 9
+False Positives: 0
+False Negatives: 0
+True Negatives: 11
+Fold 2: Accuracy: 1.0
+True Positives: 8
+False Positives: 0
+False Negatives: 0
+True Negatives: 12
+Fold 3: Accuracy: 1.0
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+Fold 4: Accuracy: 1.0
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 5: Accuracy: 1.0
+True Positives: 11
+False Positives: 0
+False Negatives: 0
+True Negatives: 9
+
+QUANTUM
+Fold 1: Accuracy: 0.95
+Jaccard: 0.9400000000000001
+Average Jaccard: 0.938
+True Positives: 8
+False Positives: 0
+False Negatives: 1
+True Negatives: 11
+Fold 2: Accuracy: 1.0
+Jaccard: 0.9600000000000002
+Average Jaccard: 0.9628333333333333
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 3: Accuracy: 1.0
+Jaccard: 0.95
+Average Jaccard: 0.9608333333333334
+True Positives: 10
+False Positives: 0
+False Negatives: 0
+True Negatives: 10
+Fold 4: Accuracy: 0.95
+Jaccard: 0.99
+Average Jaccard: 0.9954999999999999
+True Positives: 8
+False Positives: 0
+False Negatives: 1
+True Negatives: 11
+Fold 5: Accuracy: 1.0
+Jaccard: 0.95
+Average Jaccard: 0.9816666666666666
+True Positives: 12
+False Positives: 0
+False Negatives: 0
+True Negatives: 8
+
+VERISCOLOR-VIRGINICA RESULTS
+CLASSICAL
+Fold 1: Accuracy: 0.9
+True Positives: 7
+False Positives: 1
+False Negatives: 1
+True Negatives: 11
+Fold 2: Accuracy: 0.95
+True Positives: 8
+False Positives: 1
+False Negatives: 0
+True Negatives: 11
+Fold 3: Accuracy: 0.95
+True Positives: 14
+False Positives: 0
+False Negatives: 1
+True Negatives: 5
+Fold 4: Accuracy: 0.95
+True Positives: 8
+False Positives: 0
+False Negatives: 1
+True Negatives: 11
+Fold 5: Accuracy: 0.9
+True Positives: 9
+False Positives: 1
+False Negatives: 1
+True Negatives: 9
+
+QUANTUM
+Fold 1: Accuracy: 0.6
+Jaccard: 0.8
+Average Jaccard: 0.7491666666666665
+True Positives: 3
+False Positives: 0
+False Negatives: 8
+True Negatives: 9
+Fold 2: Accuracy: 0.5
+Jaccard: 0.82
+Average Jaccard: 0.8156666666666667
+True Positives: 2
+False Positives: 0
+False Negatives: 10
+True Negatives: 8
+Fold 3: Accuracy: 0.55
+Jaccard: 0.8700000000000001
+Average Jaccard: 0.8515
+True Positives: 0
+False Positives: 1
+False Negatives: 8
+True Negatives: 11
+Fold 4: Accuracy: 0.75
+Jaccard: 0.8300000000000001
+Average Jaccard: 0.8284999999999999
+True Positives: 7
+False Positives: 4
+False Negatives: 1
+True Negatives: 8
+Fold 5: Accuracy: 0.55
+Jaccard: 0.8400000000000001
+Average Jaccard: 0.8421666666666665
+True Positives: 3
+False Positives: 1
+False Negatives: 8
+True Negatives: 8
+
